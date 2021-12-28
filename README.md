@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="AKBAR" /> 
 </p>
 
-<h2 align="center"> Hi 👋 there, I'm <br> <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h2>
+<h2 align="center"> Hi 👋 there, I'm <br> <a href="https://www.ohidur.com">AKBAR</a></h2>
 
  
 
@@ -18,5 +18,6 @@
 <p align="center">
 <img alt="Random Memes" title="programming memes by ohidurbappy" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 </p>
+
 
 
