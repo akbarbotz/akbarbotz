@@ -1,4 +1,9 @@
-https://user-images.githubusercontent.com/85594230/131375305-420762b3-900c-486c-8e4a-9686c6b4eb15.gif
+<div align=center>
+    
+![nouzen-shinei](https://user-images.githubusercontent.com/85594230/131375305-420762b3-900c-486c-8e4a-9686c6b4eb15.gif)
+### Just...
+
+</div>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="AKBAR" /> 
