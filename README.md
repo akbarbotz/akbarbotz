@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="ohidurbappy" /> 
+  <img src="https://komarev.com/ghpvc/?username=ohidurbappy" alt="AKBAR" /> 
 </p>
 
 <h2 align="center"> Hi 👋 there, I'm <br> <a href="https://www.ohidur.com">Ohidur Rahman Bappy</a></h2>
