@@ -19,6 +19,11 @@
 - [I Just Uploaded Moded Whatsapp Video You Can Expect 2022 Other Category Videos🔥](https://youtu.be/BNgpIm8PrIk)
 <!-- YOUTUBE:END -->
 
+<h3>🐦 Github Statistics </h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=akbabotz&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</p>
+<br/>
 
 
 <h3>I ❤️ Memes :wink:</h3>
