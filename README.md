@@ -9,7 +9,7 @@
 <h3>📺 Latest YouTube Videos</h3>
 
 <!-- YOUTUBE:START -->
-- [i just uploaded moded whatsapp video you can 2022 pther category videos🔥](https://youtu.be/BNgpIm8PrIk)
+- [I Just Uploaded Moded Whatsapp Video You Can Expect 2022 Other Category Videos🔥](https://youtu.be/BNgpIm8PrIk)
 <!-- YOUTUBE:END -->
 
 
